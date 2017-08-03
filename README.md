@@ -1,3 +1,1 @@
-# vg_account_confirm
-================================================================
-e37cdbd7061dc1179d66d24f94c99198d4e5b6a5caca4efb3106a592d3a2db54
+258097e1205f1aee11ae8deb2e087ffc9efbc70c5bb85d8c31547b3cf8b90c05
